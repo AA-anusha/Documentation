@@ -1,8 +1,6 @@
 pages:
   stage: deploy
   script:
-  - mkdir .
   - cp -r docs/. 
-  - mv .public 
   only:
   - master
