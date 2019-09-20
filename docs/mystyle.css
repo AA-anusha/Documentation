@@ -1,0 +1,48 @@
+body{
+	font-family: 'Open Sans',arial,sans-serif;
+	color:#494d55;
+	font-size:14px,
+	overflow-x:hidden;
+}
+html,body{
+	height: 100%;
+	
+}
+
+.body-blue .header{
+	border-color: #58bbee;
+}
+
+
+.header{
+	background: #494d55;
+	color: rgba(255,255,255,0.85);
+	border-top: 5px solid #40babd;
+	padding: 30px 0;
+}
+.header .container{
+	position: relative;
+}
+
+div{
+	display: :block;
+}
+
+.branding{
+	text-transform: uppercase;
+	margin-bottom: 10px;
+}
+
+}
+p {
+	margin-top: 0;
+    margin-bottom: 1rem;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    line-height: 1.5;
+    font-size: 160%;
+}
+
